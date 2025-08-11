@@ -1,0 +1,16 @@
+{
+    "Name": "Dark",
+    "Colors": {
+        "Primary": [30, 30, 40],         
+        "Secondary": [45, 45, 55],       
+        "Text": [255, 255, 255],         
+        "TextSecondary": [180, 180, 180], 
+        "Accent": [100, 150, 255],       
+        "Error": [255, 80, 80]           
+    },
+    "Properties": {
+        "CornerRadius": 0.15,            
+        "Font": "GothamMedium",          
+        "DropShadow": true               
+    }
+}
