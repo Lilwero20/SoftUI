@@ -1,0 +1,14 @@
+{
+    "Name": "Cyberpunk",
+    "Colors": {
+        "Primary": [15, 15, 25],
+        "Secondary": [80, 20, 100],
+        "Text": [255, 50, 150],
+        "Accent": [0, 255, 200]
+    },
+    "Properties": {
+        "CornerRadius": 0.25,
+        "Font": "SciFi",
+        "GlowEffect": true
+    }
+}
